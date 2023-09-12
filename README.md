@@ -13,4 +13,4 @@
  <img align="center" alt="javascript" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div></br>
 
-Com a minha transição de carreira,estou me apaixonando ainda mais por tecnologia, e anseio por uma experiência profissional na área de Desenvolvimento de Sistemas.
+Com a minha transição de carreira,estou me apaixonando ainda mais por tecnologia e anseio por uma experiência profissional na área de Desenvolvimento de Sistemas.
