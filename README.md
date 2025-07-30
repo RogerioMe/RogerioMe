@@ -13,3 +13,16 @@
 </div></br>
 
 Com a minha transição de carreira,estou me apaixonando ainda mais por tecnologia e anseio por uma experiência profissional na área de Desenvolvimento de Sistemas.
+Atualmente, estou me especializando na área de Quality Assurance (QA), com foco em garantir a qualidade, confiabilidade e eficiência dos sistemas por meio de testes e validações.
+Estou em uma jornada contínua de aprendizado e crescimento profissional, com destaque para:
+
+• Elaboração e execução de testes manuais funcionais e não funcionais, garantindo a qualidade e o comportamento esperado do sistema.
+• Identificação, documentação e reporte de bugs e falhas de forma clara e detalhada.
+• Experiência em testes de API utilizando Postman.
+• Conta também com noções iniciais de automação de testes utilizando Cypress.
+• Possui ainda noções iniciais em BDD (Behavior Driven Development).
+• Conhecimento em linguagens de programação como Java e Python.
+• Vivência com ferramentas de controle de versão, como Git e GitHub.
+• Modelagem e gerenciamento de bancos de dados MySQL.
+• Atuação em equipes ágeis, seguindo metodologias como Scrum e Kanban.
+• Inglês em nível básico, com dedicação contínua ao aprimoramento.
