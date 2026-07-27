@@ -21,16 +21,26 @@ Cursando Especialização em Teste de Software Ágil.
 Estou em uma jornada contínua de aprendizado e crescimento profissional, com destaque para:
 
 •	Elaboração e execução de testes manuais funcionais e não funcionais, garantindo a qualidade e o comportamento esperado do sistema.
+
 •	Identificação, documentação e reporte de bugs e critérios de aceitação.
+
 •	Testes manuais com Postman.
+
 •	Conta também com noções iniciais de automação de teste com com Selenium, Cypress e Playwright.
+
 •	Possui ainda noções iniciais em BDD (Behavior-Driven Development) com escrita de cenários em
 Gherkin com uso do Cucumber.
+
 •	Conhecimento em linguagens de programação como Java e Python.
+
 •	Vivência com ferramentas de controle de versão, como Git e GitHub.
+
 •	Modelagem e gerenciamento de bancos de dados MySQL.
+
 •	Atuação em equipes ágeis, seguindo metodologias como Scrum e Kanban.
+
 •	Inglês em nível básico, com dedicação contínua ao aprimoramento.
+
 
 
 Atualmente, sigo aprofundando meus conhecimentos em testes, sempre buscando aprimorar minhas habilidades e contribuir para a entrega de software de qualidade.
